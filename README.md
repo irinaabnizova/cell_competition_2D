@@ -1,5 +1,5 @@
 # cell_competition_2D
-The model mimicking the SP model [1] in 2D
+The model mimicking a Moran process [1] or SP model [2] in 2D
 
 **Refrences**
 
