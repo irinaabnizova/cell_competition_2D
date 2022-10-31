@@ -1,5 +1,5 @@
 # cell_competition_2D
-The model is mimicking a Moran process [1] or SP model [2] in 2D
+The model is mimicking a Moran process [1] or SP model [2,3] in 2D.
 
 ![dense19](https://user-images.githubusercontent.com/61786710/197974874-4587394c-be42-4c61-b6ee-6af143b13e1e.png)
 
@@ -144,5 +144,6 @@ Both choosers and the switch can be changed while the model is running.
 
 **Refrences**
 
-1. Moran Random processes
-2. Piedrafita et al. 2020
+1. Moran, Patrick Alfred Pierce (1962). The Statistical Processes of Evolutionary Theory. Oxford: Clarendon Press.
+2. Clayton et al. 2007
+3. Piedrafita et al. 2020
